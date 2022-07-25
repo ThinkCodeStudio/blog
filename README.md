@@ -9,7 +9,7 @@
 
 * vuex
 
-#数据库
+# 数据库
 
 * mysql
 * json
